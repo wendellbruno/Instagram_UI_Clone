@@ -29,4 +29,5 @@ export const profiles = [
     name: 'fred',
     avatar: require('../assets/people/6.png')
   },
+  
 ];

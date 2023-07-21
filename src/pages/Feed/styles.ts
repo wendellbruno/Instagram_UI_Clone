@@ -105,4 +105,5 @@ export const styles = StyleSheet.create({
     fontSize: 13,
     marginTop: 6
   }
+  
 });

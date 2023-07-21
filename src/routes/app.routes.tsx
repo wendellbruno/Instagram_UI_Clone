@@ -64,6 +64,7 @@ const AuthRoutes = () => {
       />
     </AppTab.Navigator>
   )
+  
 }
 
 export default AuthRoutes;

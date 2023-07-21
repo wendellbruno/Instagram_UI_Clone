@@ -22,4 +22,5 @@ export const posts = [
     description: 'The game in Japan was amazing and I want to share some photos',
     lastLiked: profiles[3]
   },
+  
 ];
