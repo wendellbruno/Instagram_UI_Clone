@@ -8,7 +8,7 @@ import {
     SaveIcon,
 } from '../../../global/styles/icons';
 
-import {styles} from '../../../pages/Feed/styles'
+import {styles} from './styles'
 
 export const PostOptions: React.FC = () => {
   return (

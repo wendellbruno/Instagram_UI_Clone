@@ -14,6 +14,7 @@ import { Posts } from "../../components";
 
 import { styles } from "./styles";
 
+
 export function Feed() {
   return (
     <View style={styles.container}>

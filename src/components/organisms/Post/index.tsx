@@ -1,7 +1,7 @@
 import React from 'react';
 import { View, ImageSourcePropType  } from 'react-native';
 
-import {styles} from '../../../pages/Feed/styles'
+import {styles} from './styles'
 import {PostHeader, PostOptions, PostAbout} from '../../molecules';
 import {PostPhoto, PostDescription} from '../../atoms';
 export type PostProps = {

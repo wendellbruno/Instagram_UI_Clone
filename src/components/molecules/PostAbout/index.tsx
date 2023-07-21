@@ -1,7 +1,7 @@
 import React from 'react';
-import { View, Image, Text, ImageSourcePropType } from 'react-native';
+import { View, ImageSourcePropType } from 'react-native';
 
-import {styles} from '../../../pages/Feed/styles'
+import {styles} from './styles'
 import {PostLiked, PostLikedAvatar} from '../../atoms';
 
 

@@ -1,5 +1,5 @@
 import React from 'react';
-import { View, Image, Text } from 'react-native';
+import { View} from 'react-native';
 
 import {ProfileIcon} from '../../../global/styles/icons';
 import {PostAvatar, PostUserName, PostLocation} from '../../atoms';
@@ -10,7 +10,7 @@ type Props = {
 }
 
 
-import {styles} from '../../../pages/Feed/styles'
+import {styles} from './styles'
 
 export const PostHeader: React.FC<Props> = ({username, location} :  Props) => {
   return(
