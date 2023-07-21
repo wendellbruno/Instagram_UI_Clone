@@ -6,7 +6,7 @@ export const profiles = [
   },
   {
     id: '2',
-    name: 'Felipe',
+    name: 'Alaide',
     avatar: require('../assets/people/2.png')
   },
   {
